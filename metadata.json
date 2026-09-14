@@ -1,0 +1,6 @@
+{
+  "name": "TIC QUEST",
+  "description": "Plataforma educativa de aprendizagem autónoma e gamificada para a disciplina de TIC no 6.º ano em Portugal. Explora mundos digitais, supera desafios e torna-te um Mestre Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
